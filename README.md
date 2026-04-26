@@ -7,7 +7,6 @@
 One function, one call: stream a file descriptor line by line with persistent state.
 
 ![C](https://img.shields.io/badge/language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Graphics](https://img.shields.io/badge/graphics-none-6c757d?style=for-the-badge)
 ![42 Norm](https://img.shields.io/badge/42-Norminette-1f6feb?style=for-the-badge)
 
 </div>
